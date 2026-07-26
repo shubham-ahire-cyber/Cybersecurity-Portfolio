@@ -1,34 +1,42 @@
-# Cybersecurity Portfolio
+# Windows 10 Vulnerability Assessment Lab
 
-Welcome to my professional cybersecurity portfolio.
+## Overview
 
-## About Me
+This project documents a controlled vulnerability assessment performed in an isolated VMware lab environment.
 
-Hi, I'm Shubham Ahire.
+## Lab Environment
 
-I am passionate about Cybersecurity, Ethical Hacking, Vulnerability Assessment, Network Security, Linux, Windows Security, SOC Operations, and Cloud Security.
+- Attacker/Assessment Machine: Kali Linux
+- Target Machine: Windows 10
+- Virtualization Platform: VMware Workstation
+- Network Type: VMware NAT
+- Kali IP: 192.168.126.128
+- Windows 10 IP: 192.168.126.129
 
-This repository documents my practical cybersecurity projects, hands-on labs, technical documentation, reports, and continuous learning journey.
+## Objective
 
-## Skills & Areas of Interest
+The objective of this project is to assess the security posture of a Windows 10 virtual machine in a controlled environment and document the findings professionally.
 
-- Cybersecurity
-- Networking
-- Linux
-- Vulnerability Assessment
-- Web Security
-- Active Directory Security
-- Security Operations Center (SOC)
-- Cloud Security
+## Scope
 
-## Portfolio Projects
+The assessment is limited to the Windows 10 virtual machine owned and controlled by the lab operator.
 
-Projects and practical labs will be added here as I continue building my cybersecurity skills.
+## Methodology
 
-## Certifications
+1. Lab setup and network verification
+2. Target identification
+3. Service discovery
+4. Security assessment
+5. Findings documentation
+6. Recommendations
+7. Final report preparation
 
-My cybersecurity certifications and training will be documented in this portfolio.
+## Tools
 
-## Contact
+- Kali Linux
+- Nmap
+- VMware Workstation
 
-GitHub: shubham-ahire-cyber
+## Status
+
+In Progress
