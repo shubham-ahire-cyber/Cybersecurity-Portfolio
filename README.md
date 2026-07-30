@@ -1,42 +1,177 @@
-# Windows 10 Vulnerability Assessment Lab
+# 🛡️ Cybersecurity Portfolio
 
-## Overview
+Welcome to my Cybersecurity Portfolio.
 
-This project documents a controlled vulnerability assessment performed in an isolated VMware lab environment.
+This repository documents my hands-on cybersecurity projects performed in an isolated and authorized virtual laboratory environment.
 
-## Lab Environment
+The purpose of this portfolio is to demonstrate practical cybersecurity skills including network assessment, vulnerability assessment, web application security testing, and professional security reporting.
 
-- Attacker/Assessment Machine: Kali Linux
-- Target Machine: Windows 10
-- Virtualization Platform: VMware Workstation
-- Network Type: VMware NAT
-- Kali IP: 192.168.126.128
-- Windows 10 IP: 192.168.126.129
+---
 
-## Objective
+# 👨‍💻 About Me
 
-The objective of this project is to assess the security posture of a Windows 10 virtual machine in a controlled environment and document the findings professionally.
+I am an aspiring Cybersecurity Professional with a strong interest in:
 
-## Scope
+- Network Security
+- Vulnerability Assessment
+- Penetration Testing
+- Web Application Security
+- Linux
+- Windows Security
+- Security Documentation
 
-The assessment is limited to the Windows 10 virtual machine owned and controlled by the lab operator.
+My goal is to continuously improve my practical cybersecurity skills by building real-world lab projects and documenting every assessment professionally.
 
-## Methodology
+---
 
-1. Lab setup and network verification
-2. Target identification
-3. Service discovery
-4. Security assessment
-5. Findings documentation
-6. Recommendations
-7. Final report preparation
+# 🎯 Portfolio Objective
 
-## Tools
+This repository serves as a collection of cybersecurity assessments performed in my personal VMware lab.
+
+Every project includes:
+
+- Professional Report
+- Evidence Collection
+- Assessment Methodology
+- Findings
+- Security Recommendations
+
+---
+
+# 🖥️ Lab Environment
+
+**Assessment Machine**
+
+- Kali Linux
+
+**Target Machines**
+
+- Windows 10
+- Additional lab machines (coming soon)
+
+**Virtualization**
+
+- VMware Workstation
+
+**Network**
+
+- VMware NAT Network
+
+---
+
+# 🛠️ Tools Used
 
 - Kali Linux
 - Nmap
+- Git
+- GitHub
 - VMware Workstation
+- Curl
 
-## Status
+More tools will be added as the portfolio grows.
+
+---
+
+# ✅ Completed Projects
+
+## Project 01 – Windows 10 Network Assessment
+
+Topics Covered:
+
+- Host Discovery
+- Network Verification
+- Service Enumeration
+- Initial Nmap Scanning
+- Network Documentation
+
+Report:
+
+- Reports/01-Initial-Network-Assessment.md
+
+---
+
+## Project 02 – Windows 10 Vulnerability Assessment
+
+Topics Covered:
+
+- Targeted Port Scanning
+- Service Detection
+- HTTP Service Investigation
+- Evidence Collection
+- Professional Reporting
+
+Report:
+
+- Reports/02-Vulnerability-Assessment.md
+
+---
+
+# 🚧 Current Project
+
+🔄 Project 03 – Web Application Security Assessment (DVWA)
+
+Coming soon.
+
+Topics will include:
+
+- Directory Enumeration
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Authentication Testing
+- Security Reporting
+
+---
+
+# 📂 Repository Structure
+
+```
+Cybersecurity-Portfolio/
+
+├── Evidence/
+├── Reports/
+├── Screenshots/
+├── Lab-Environment.md
+└── README.md
+```
+
+---
+
+# 📈 Learning Roadmap
+
+Completed
+
+- Windows Network Assessment
+- Vulnerability Assessment
 
 In Progress
+
+- Web Application Security
+- OWASP Top 10
+
+Upcoming
+
+- Wireshark Analysis
+- Linux Enumeration
+- Active Directory Lab
+- SOC Monitoring Lab
+- Cloud Security
+
+---
+
+# ⚠️ Disclaimer
+
+All assessments contained in this repository were performed only against systems that I own or have explicit authorization to assess.
+
+This repository is intended solely for educational purposes and professional portfolio development.
+
+---
+
+# 📬 Contact
+
+GitHub:
+
+https://github.com/shubham-ahire-cyber
+
+---
+
+⭐ Thank you for visiting my Cybersecurity Portfolio.
