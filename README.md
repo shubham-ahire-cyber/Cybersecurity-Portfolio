@@ -168,10 +168,42 @@ This repository is intended solely for educational purposes and professional por
 
 # 📬 Contact
 
-GitHub:
+# Shubham Ahire - Cybersecurity Portfolio
 
-https://github.com/shubham-ahire-cyber
+Welcome to my professional cybersecurity portfolio. I am an aspiring Security Analyst with hands-on experience in vulnerability assessment, penetration testing, and IT support. This repository contains real-world lab projects that demonstrate my technical skills and my commitment to security.
+
+## 🛠️ Skills & Tools
+- **Operating Systems:** Kali Linux, Windows
+- **Networking:** Nmap, Wireshark
+- **Web Security:** DVWA, SQL Injection, Command Injection, XSS
+- **Vulnerability Assessment:** Manual testing, OWASP Top 10
+- **Reporting:** Clear, actionable security reports
+- **Version Control:** Git, GitHub
+
+## 📁 Projects
+This portfolio includes the following hands-on projects:
+
+| # | Project | Vulnerability Found | Report |
+|---|---------|---------------------|--------|
+| 1 | **DVWA SQL Injection** | Exploited a SQL injection flaw to extract database records. | [View Report](Evidence/Vulnerability-Assessment/dvwa-sqli-test-001.md) |
+| 2 | **DVWA Command Injection** | Executed system commands on the target server. | [View Report](Evidence/Vulnerability-Assessment/dvwa-command-injection-001.md) |
+
+*More projects will be added as I continue to develop my skills.*
+
+## 🎯 Professional Focus
+I am currently focused on building practical skills in:
+- Web application security testing
+- Vulnerability identification and reporting
+- SOC operations and threat analysis
+
+## 📫 Let's Connect
+I am open to freelance opportunities, security projects, and entry-level roles in cybersecurity. If you're looking for a dedicated and detail-oriented security professional, feel free to reach out.
+
+- **Email:** shubhamahire2200@gmail.com
+- **GitHub:** [shubham-ahire-cyber](https://github.com/shubham-ahire-cyber)
+- **Upwork:** *Coming Soon!*
 
 ---
+*This portfolio is a work in progress and reflects my journey into the cybersecurity field.*
 
-⭐ Thank you for visiting my Cybersecurity Portfolio.
+
