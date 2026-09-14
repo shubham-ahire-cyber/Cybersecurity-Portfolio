@@ -124,6 +124,7 @@ Reports:
 ---
 
 ### Project 04 – Student Management System (Web Application)
+
 Topics Covered:
 - Full-stack web application (PHP + MySQL)
 - Login system with session management
@@ -133,20 +134,24 @@ Topics Covered:
 Repository:
 - `Projects/Student-Management-System/`
 
-*(Security assessment of this app is in progress.)*
-
+Security Report:
+- `Evidence/Vulnerability-Assessment/student-management-sqli-login-001.md`
 ---
 
 ## 🚧 Current Project
 
 🔄 **Project 05 – Security Assessment of Student Management System**
 
-Topics will include:
-- SQL Injection testing on login and search
-- XSS testing on input fields
-- Authentication & session security testing
-- Security reporting
+Completed:
+- ✅ SQL Injection (Authentication Bypass)
 
+In Progress:
+- 🔄 XSS testing on input fields
+- 🔄 Authentication & session security testing
+- 🔄 Additional SQL Injection tests on search and other forms
+
+Coming Up:
+- 📄 Full security assessment report
 ---
 
 ## 📂 Repository Structure
