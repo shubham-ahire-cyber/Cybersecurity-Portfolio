@@ -138,20 +138,19 @@ Security Report:
 - `Evidence/Vulnerability-Assessment/student-management-sqli-login-001.md`
 ---
 
-## 🚧 Current Project
+## ✅ Completed Project – Security Assessment of Student Management System
 
-🔄 **Project 05 – Security Assessment of Student Management System**
+**Status:** ✅ Completed
 
-Completed:
-- ✅ SQL Injection (Authentication Bypass)
+### Vulnerabilities Found & Fixed:
+| # | Vulnerability | Status |
+|---|---------------|--------|
+| 1 | SQL Injection (Login Bypass) | ✅ Fixed |
+| 2 | Stored XSS (Add Student) | ✅ Fixed |
+| 3 | Brute Force (No Rate Limiting) | ✅ Fixed |
 
-In Progress:
-- 🔄 XSS testing on input fields
-- 🔄 Authentication & session security testing
-- 🔄 Additional SQL Injection tests on search and other forms
-
-Coming Up:
-- 📄 Full security assessment report
----
-
-## 📂 Repository Structure
+### Reports:
+- `Evidence/Vulnerability-Assessment/student-management-sqli-login-001.md`
+- `Evidence/Vulnerability-Assessment/student-management-xss-add-student-001.md`
+- `Evidence/Vulnerability-Assessment/student-management-brute-force-001.md`
+- `Evidence/Vulnerability-Assessment/student-management-log-analysis-001.md`
